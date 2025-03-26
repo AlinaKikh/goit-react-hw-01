@@ -1,0 +1,23 @@
+.friend {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .online {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .offline {
+    color: red;
+    font-weight: bold;
+  }
