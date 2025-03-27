@@ -1,9 +1,10 @@
 .friend {
-    display: flex;
+    display: column;
     align-items: center;
+    justify-content: center;
     gap: 10px;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     border-radius: 5px;
     margin-bottom: 5px;
   }
